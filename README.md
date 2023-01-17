@@ -1,6 +1,7 @@
-pandasql
+RelationalPandas
 ========
-
+## About this repo
+This is a fork from pandasql which I aim to make it functional(considering it is very old) and maintain and add new functionalities if needed.
 `pandasql` allows you to query `pandas` DataFrames using SQL syntax. It works 
 similarly to `sqldf` in R. `pandasql` seeks to provide a more familiar way of 
 manipulating and cleaning data for people new to Python or `pandas`.
